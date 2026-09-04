@@ -1,5 +1,6 @@
-<img width="517" height="240" alt="README md success" src="https://github.com/user-attachments/assets/70cf8ff2-4865-4cfc-ae1d-672e77a73424" />
-<img width="600" height="253" alt="CI Success" src="https://github.com/user-attachments/assets/884f926f-f191-4e0e-9b9f-1dbc1ed13a99" />
+
+<img width="1337" height="535" alt="CI Successs" src="https://github.com/user-attachments/assets/85330781-8cf0-434d-bf45-b4695b73f216" />
+
 
 # Race Day
 
@@ -49,7 +50,7 @@ RaceDay
 └── .github
     └── workflows
         └── part1-ci.yml
-<img width="517" height="240" alt="README md success" src="https://github.com/user-attachments/assets/13c0b364-d4df-41b8-9bb0-b8392e266180" />
+
 
 
 

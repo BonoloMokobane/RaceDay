@@ -1,4 +1,5 @@
 <img width="517" height="240" alt="README md success" src="https://github.com/user-attachments/assets/70cf8ff2-4865-4cfc-ae1d-672e77a73424" />
+<img width="600" height="253" alt="CI Success" src="https://github.com/user-attachments/assets/884f926f-f191-4e0e-9b9f-1dbc1ed13a99" />
 
 # Race Day
 

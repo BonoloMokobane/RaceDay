@@ -47,6 +47,5 @@ RaceDay
 └── .github
     └── workflows
         └── part1-ci.yml
-<img width="517" height="240" alt="README md success" src="https://github.com/user-attachments/assets/61431343-016b-42f1-be3c-733e3301707c" />
-<img width="600" height="253" alt="CI Success" src="https://github.com/user-attachments/assets/63593a09-2084-4ce4-a6d3-8c0db55d49d6" />
+
 
